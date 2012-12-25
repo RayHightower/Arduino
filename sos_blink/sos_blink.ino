@@ -1,6 +1,8 @@
 /*
-  Blink
-  Turns on an LED on for one second, then off for one second, repeatedly.
+  sos_blink.ino
+  Blinks "SOS" in Morse code on an LED.
+  Based on the "Blink" example that comes with the standard Arduino
+package of code.
  
   This example code is in the public domain.
  */

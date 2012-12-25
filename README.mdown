@@ -1,7 +1,10 @@
 Arduino Samples and Experimental Code
 ===
 
+These sample programs run on the Arduino microcontroller.
+
 Some of the example files include modifications and experiments by RTH.
+
 
 
 
